@@ -6,10 +6,19 @@ This project was completed as part of an internship under YBI Foundation.
 
 This project predicts cash demand at ATM locations using Random Forest Regressor based on demographics, seasonality, and event data.
 
+## Features Used
+
+- ATM type
+- Nearby population
+- Income level
+- Date \& season
+- Event/holiday flags
+
 ## Result 
 
 The Random Forest Regressor was trained and evaluated on historical ATM demand data.
-**Mean Absolute Percentage Error (MAPE)** on test set was found to be : 0.0038 or 0.38%
+- **Mean Absolute Percentage Error (MAPE)** on test set was found to be : 0.0038 or 0.38%
+- low income level, urban and suburban location type had no effect in the predection.
 
 ## Files Included
 
@@ -25,13 +34,7 @@ The Random Forest Regressor was trained and evaluated on historical ATM demand d
 
 
 
-## Features Used
 
-- ATM type
-- Nearby population
-- Income level
-- Date \& season
-- Event/holiday flags
 
 ## How to Run
 
