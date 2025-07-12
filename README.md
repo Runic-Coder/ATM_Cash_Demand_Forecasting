@@ -44,4 +44,4 @@ Then open the notebook or script to run the model.
 ## Model
 
 
-The trained Random Forest model is saved as `atm\_demand\_model.pkl` and can be reused without retraining.
+The trained Random Forest model is saved as `atm_demand_model.pkl` and can be reused without retraining.
