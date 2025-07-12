@@ -25,8 +25,8 @@ The Random Forest Regressor was trained and evaluated on historical ATM demand d
 - `ATM Cash Demand Forecast for BankServe.csv` - Given Dataset
 
 - `ATM_Cash_Demand_Forecast_for_BankServe.ipynb` – Main notebook
-- 
-- - `ATM_Cash_Demand_Forecast_for_BankServe.py` – Python code only
+
+- `ATM_Cash_Demand_Forecast_for_BankServe.py` – Python code only
 
 - `atm_demand_model.pkl` – Saved trained model
 
