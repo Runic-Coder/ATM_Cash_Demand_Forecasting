@@ -6,23 +6,16 @@ This project was completed as part of an internship under YBI Foundation.
 
 This project predicts cash demand at ATM locations using Random Forest Regressor based on demographics, seasonality, and event data.
 
+## Result 
 
-
-## Project Goals 
-
-- Forecast ATM cash demand accurately
-
-- Recommend cash replenishment schedules
-
-- Optimize cash logistics using data
-
-
+The Random Forest Regressor was trained and evaluated on historical ATM demand data.
+**Mean Absolute Percentage Error (MAPE)** on test set was found to be : 0.0038 or 0.38%
 
 ## Files Included
 
-- `ATM\_Cash\_Demand\_Forecast\_for\_BankServe.ipynb` – Main notebook
+- `ATM_Cash_Demand_Forecast_for_BankServe.ipynb` – Main notebook
 
-- `atm\_demand\_model.pkl` – Saved trained model
+- `atm_demand_model.pkl` – Saved trained model
 
 - `requirements.txt` – Required Python libraries
 
@@ -31,7 +24,6 @@ This project predicts cash demand at ATM locations using Random Forest Regressor
 ## Features Used
 
 - ATM type
-
 - Nearby population
 - Income level
 - Date \& season
