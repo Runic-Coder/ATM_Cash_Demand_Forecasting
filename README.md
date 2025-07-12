@@ -11,8 +11,8 @@ This project predicts cash demand at ATM locations using Random Forest Regressor
 - ATM type
 - Nearby population
 - Income level
-- Date \& season
-- Event/holiday flags
+- Date & season
+- Event & holiday flags
 
 ## Result 
 
